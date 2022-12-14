@@ -61,7 +61,7 @@ public class Day2 {
     public void day2part2() {
     	
     	
-    	for (String i: fileContent) {    		  
+    	for (String i: fileContent) {     
  		   split = i.split(" ");
             x = split[0];
             y = split[1];
